@@ -394,8 +394,12 @@ A modern portfolio showcasing my:
 
 # 🐍 Contribution Snake
 
+# 🐍 Contribution Snake
+
 <p align="center">
+
   <picture>
+
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/munawwar-007/munawwar-007/output/github-contribution-grid-snake-dark.svg"
@@ -411,9 +415,10 @@ A modern portfolio showcasing my:
       alt="GitHub Contribution Snake"
       width="100%"
     />
-  </picture>
-</p>
 
+  </picture>
+
+</p>
 ---
 
 # 📅 Contribution Activity
