@@ -394,8 +394,6 @@ A modern portfolio showcasing my:
 
 # 🐍 Contribution Snake
 
-# 🐍 Contribution Snake
-
 <p align="center">
 
   <picture>
