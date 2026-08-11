@@ -1,148 +1,321 @@
 # 👋 Hi, I'm Shaikh Munawwar
 
 <h3 align="center">
-  🚀 Full-Stack Developer | ☁️ AWS & Cloud Enthusiast | 🤖 AI Learner
+IT Support & System Administration | Full-Stack Developer | AWS & Cloud Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;MCA+Graduate;React+%7C+Node.js+%7C+MongoDB;AWS+%7C+Cloud+Computing+Enthusiast;Learning+AI+%26+Cloud+Technologies;Building+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=IT+Support+%7C+System+Administration;Windows+Server+%7C+Active+Directory;VMware+%7C+Networking+%7C+PowerShell;AWS+%7C+Cloud+Computing;React+%7C+Node.js+%7C+MongoDB;Full-Stack+Development;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=munawwar-007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=munawwar-007&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/munawwar-007">
+    <img src="https://img.shields.io/github/followers/munawwar-007?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+  <img src="https://img.shields.io/github/stars/munawwar-007?style=for-the-badge&logo=github&label=Stars" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm **Shaikh Munawwar**, an **MCA graduate and passionate Full-Stack Developer** from India.
+I'm **Shaikh Munawwar**, an **MCA graduate** with an interest in **IT Infrastructure, System Administration, Full-Stack Development, AWS and Cloud Computing**.
 
-I enjoy building responsive, scalable and user-friendly applications while continuously improving my knowledge of **Web Development, Cloud Computing, AWS and Artificial Intelligence**.
+My technical journey combines **IT Support & Infrastructure** with **Software Development**, allowing me to understand both the systems that run applications and the applications themselves.
 
-### 🚀 What I'm Currently Focused On
+### 💼 Core Areas
 
-* 💻 Building full-stack applications using **React, Node.js, Express & MongoDB**
-* ☁️ Learning and implementing **AWS Cloud Services**
-* 🌐 Understanding **Cloud Architecture & DevOps concepts**
-* 🤖 Exploring **Artificial Intelligence and modern AI technologies**
-* 🔐 Learning backend authentication using **JWT & secure APIs**
-* 📚 Improving my **Data Structures, JavaScript & programming fundamentals**
-* 🚀 Building real-world projects for my developer portfolio
+* 🖥️ IT Support & Desktop Support
+* 🪟 Windows Server Administration
+* 👥 Active Directory & User Management
+* 🌐 Networking & Troubleshooting
+* 🖥️ VMware & Virtualization
+* ⚙️ PowerShell & Windows Administration
+* ☁️ AWS & Cloud Computing
+* 💻 Full-Stack Web Development
+* 🔐 System & Network Security Fundamentals
+* 🐧 Linux Administration
+* 🚀 Application Deployment
 
-### 🎯 Career Goal
+### 🎯 Career Objective
 
-> To become a strong **Full-Stack & Cloud Developer** capable of designing, developing and deploying scalable applications using modern web technologies and AWS cloud services.
+> To build a career at the intersection of **IT Infrastructure, Cloud Computing and Software Development**, while continuously improving my skills in **AWS, Windows Server, Virtualization, Networking, Automation and Full-Stack Development**.
 
 ---
 
-# 🧑‍💻 Tech Stack
+# 🏢 IT Infrastructure & System Administration
 
-## 🌐 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,powershell" />
+</p>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+### 🪟 Windows Administration
+
+* Windows 10 / 11
+* Windows Server fundamentals
+* User & computer management
+* System troubleshooting
+* Software installation & configuration
+* OS installation and maintenance
+* Windows services
+* Event Viewer
+* Remote Desktop
+* PowerShell
+* System performance troubleshooting
+
+### 👥 Active Directory
+
+* Active Directory Domain Services (AD DS)
+* User & Group Management
+* Organizational Units (OU)
+* Group Policy fundamentals
+* Domain concepts
+* Password & account management
+* Permissions
+* Authentication fundamentals
+* Windows domain environments
+
+### 🖥️ Virtualization
+
+* VMware Workstation
+* VMware virtualization fundamentals
+* Virtual Machines
+* VM configuration
+* Snapshots
+* Virtual networking
+* Resource allocation
+* Windows/Linux VM installation
+
+---
+
+# 🌐 Networking & IT Support
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+### Networking
+
+* TCP/IP
+* IPv4 / IPv6 fundamentals
+* Subnetting
+* DNS
+* DHCP
+* LAN / WAN
+* Routers
+* Switches
+* Default Gateway
+* MAC Address
+* VPN
+* Wi-Fi troubleshooting
+* Network connectivity troubleshooting
+* Basic firewall concepts
+* Network security fundamentals
+
+### 🛠️ IT Support
+
+* Desktop troubleshooting
+* Hardware troubleshooting
+* Software troubleshooting
+* Printer troubleshooting
+* Windows troubleshooting
+* Application installation
+* Remote Desktop Support
+* User account troubleshooting
+* Email / Outlook troubleshooting
+* Network troubleshooting
+* System configuration
+* Ticket-based support
+* Incident troubleshooting
+
+---
+
+# ☁️ AWS & Cloud Computing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+</p>
+
+### AWS Services & Concepts
+
+| AWS Technology     | Knowledge Area               |
+| ------------------ | ---------------------------- |
+| ☁️ AWS             | Cloud Fundamentals           |
+| 🖥️ EC2            | Virtual Servers              |
+| 📦 S3              | Cloud Storage                |
+| 🔐 IAM             | Identity & Access Management |
+| 🌐 VPC             | Cloud Networking             |
+| 📊 CloudWatch      | Monitoring                   |
+| 🗄️ RDS            | Managed Databases            |
+| ⚖️ Load Balancer   | High Availability            |
+| 🔒 Security Groups | Network Security             |
+| 🧱 EBS             | Block Storage                |
+| 🌎 Route 53        | DNS                          |
+| 🚀 Deployment      | Cloud Application Deployment |
+
+### ☁️ Cloud Learning Path
+
+```text
+Networking
+    │
+    ▼
+Linux & Windows Administration
+    │
+    ▼
+Virtualization / VMware
+    │
+    ▼
+AWS Fundamentals
+    │
+    ▼
+IAM + EC2 + S3
+    │
+    ▼
+VPC + Security Groups
+    │
+    ▼
+RDS + CloudWatch
+    │
+    ▼
+Docker
+    │
+    ▼
+CI/CD
+    │
+    ▼
+Cloud Architecture
+```
+
+---
+
+# 💻 Full-Stack Development
+
+## 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
 **HTML5 • CSS3 • JavaScript • React.js • Bootstrap • Responsive Design**
 
----
+## ⚙️ Backend
 
-## ⚙️ Backend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
 </p>
 
-**Node.js • Express.js • PHP • Python • REST APIs • JWT Authentication**
+**Node.js • Express.js • PHP • Python • REST APIs • JWT**
 
----
+## 🗄️ Database
 
-## 🗄️ Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 **MongoDB • Mongoose • MySQL**
 
 ---
 
-# ☁️ AWS & Cloud Computing
+# ⚙️ Programming & Scripting
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,c,php,powershell" />
 </p>
 
-Currently developing my knowledge in:
-
-| AWS / Cloud Area  | Learning Focus               |
-| ----------------- | ---------------------------- |
-| ☁️ AWS            | Cloud Fundamentals           |
-| 🖥️ EC2           | Virtual Servers              |
-| 📦 S3             | Cloud Storage                |
-| 🔐 IAM            | Identity & Access Management |
-| 🌐 VPC            | Networking                   |
-| ⚖️ Load Balancing | Application Scalability      |
-| 📊 CloudWatch     | Monitoring                   |
-| 🗃️ RDS           | Managed Databases            |
-| 🚀 Deployment     | Application Deployment       |
-| 🐳 Docker         | Containerization             |
-| 🐧 Linux          | Cloud Server Management      |
-
-### ☁️ My Cloud Learning Path
-
-```text
-Linux & Networking
-       ↓
-AWS Fundamentals
-       ↓
-IAM + EC2 + S3
-       ↓
-VPC + Security Groups
-       ↓
-RDS + CloudWatch
-       ↓
-Docker
-       ↓
-CI/CD
-       ↓
-Cloud Deployment
-       ↓
-AWS Cloud Architecture
-```
+* JavaScript
+* Python
+* C
+* C++
+* PHP
+* PowerShell
+* Bash fundamentals
 
 ---
 
-# 🛠️ Tools & Development Environment
+# 🔧 Tools & Technologies
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,powershell,linux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker,linux" />
 </p>
 
-**Git • GitHub • VS Code • Postman • npm • PowerShell • Linux**
+**Git • GitHub • VS Code • Postman • npm • Docker • Linux • PowerShell**
+
+### Infrastructure Tools
+
+`Windows Server` `Active Directory` `VMware` `Remote Desktop` `PowerShell`
 
 ---
 
-# 📊 Skills Overview
+# 📊 Technical Skill Development
+
+| Domain              | Current Focus                  |
+| ------------------- | ------------------------------ |
+| 🖥️ IT Support      | Troubleshooting & User Support |
+| 🪟 Windows Server   | Administration Fundamentals    |
+| 👥 Active Directory | Users, Groups & Policies       |
+| 🖥️ VMware          | Virtualization                 |
+| 🌐 Networking       | TCP/IP, DNS, DHCP, VPN         |
+| ⚙️ PowerShell       | Windows Automation             |
+| ☁️ AWS              | Cloud Infrastructure           |
+| 🐧 Linux            | Administration                 |
+| 💻 React            | Frontend Development           |
+| ⚙️ Node.js          | Backend Development            |
+| 🗄️ MongoDB         | Database Development           |
+| 🐳 Docker           | Containerization               |
+| 🤖 AI               | Exploring AI Integration       |
+
+---
+
+# 📈 My Learning Roadmap
 
 ```text
-Frontend Development     █████████████████░░░ 85%
-Backend Development      ████████████████░░░░ 80%
-JavaScript               ████████████████░░░░ 80%
-React.js                 ███████████████░░░░░ 75%
-Node.js                  ███████████████░░░░░ 75%
-MongoDB                  ██████████████░░░░░░ 70%
-SQL / MySQL              ██████████████░░░░░░ 70%
-Python                   █████████████░░░░░░░ 65%
-AWS / Cloud              ███████████░░░░░░░░░ 55%
-Linux / Networking       ███████████░░░░░░░░░ 55%
-AI / Machine Learning    ████████░░░░░░░░░░░░ 40%
-```
+                         CAREER ROADMAP
 
-> 📌 These represent my current learning focus rather than formal proficiency ratings.
+                           🎓 MCA
+                            │
+             ┌──────────────┴──────────────┐
+             │                             │
+             ▼                             ▼
+       🖥️ IT INFRASTRUCTURE          💻 DEVELOPMENT
+             │                             │
+             ▼                             ▼
+      Windows Administration          HTML / CSS
+             │                             │
+             ▼                             ▼
+      Windows Server                  JavaScript
+             │                             │
+             ▼                             ▼
+      Active Directory                   React
+             │                             │
+             ▼                             ▼
+        Networking                     Node.js
+             │                             │
+             ▼                             ▼
+          VMware                      MongoDB
+             │                             │
+             └──────────────┬──────────────┘
+                            │
+                            ▼
+                         ☁️ AWS
+                            │
+                            ▼
+                     Cloud Computing
+                            │
+                            ▼
+                      🐳 Docker
+                            │
+                            ▼
+                         CI/CD
+                            │
+                            ▼
+                     🤖 AI + Cloud
+```
 
 ---
 
@@ -150,36 +323,37 @@ AI / Machine Learning    ████████░░░░░░░░░░�
 
 ## 🍔 Food Ordering Web Application
 
-A modern full-stack food ordering application built with the MERN stack.
+A full-stack food ordering application developed using the MERN stack.
 
-**Technologies:**
+**Tech Stack**
 
 `React` `Node.js` `Express` `MongoDB` `Mongoose` `Axios`
 
 ### Features
 
-* 🛒 Shopping cart
-* 👤 User management
+* 🛒 Shopping Cart
+* 👤 User Management
 * 🔐 Authentication
-* 🍔 Food/product browsing
-* 📦 Order management
-* 📱 Responsive UI
-* 🔗 REST API integration
+* 🍔 Product Management
+* 📦 Order Management
+* 🔗 REST APIs
+* 📱 Responsive Interface
 
 ---
 
 ## 💼 Developer Portfolio
 
-A responsive developer portfolio showcasing my:
+A modern portfolio showcasing my:
 
-* 👨‍💻 Skills
-* 🚀 Projects
-* 📚 Learning journey
-* ☁️ AWS & Cloud knowledge
-* 📜 Certifications
-* 📬 Contact information
+* IT Infrastructure skills
+* Full-Stack Development
+* AWS & Cloud learning
+* Projects
+* Certifications
+* Technical skills
+* Professional journey
 
-**Built with:**
+**Tech Stack**
 
 `React` `TypeScript` `Vite` `CSS`
 
@@ -189,44 +363,23 @@ A responsive developer portfolio showcasing my:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React.js-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_Server-Learning-0078D4?style=for-the-badge&logo=windows"/>
+<img src="https://img.shields.io/badge/VMware-Learning-607078?style=for-the-badge&logo=vmware"/>
 <img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud-Computing-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Exploring-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerShell-Learning-5391FE?style=for-the-badge&logo=powershell"/>
 <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-Exploring-412991?style=for-the-badge"/>
 
 </p>
-
-### 📈 Development Roadmap
-
-* [x] HTML & CSS
-* [x] JavaScript Fundamentals
-* [x] React Fundamentals
-* [x] Git & GitHub
-* [x] SQL Basics
-* [x] Python Basics
-* [x] Node.js Fundamentals
-* [x] MongoDB Fundamentals
-* [x] Advanced React
-* [x] Advanced Node.js
-* [x] System Design
-* [x] AWS Architecture
-* [ ] Docker & Containers
-* [ ] CI/CD
-* [ ] Advanced Cloud Computing
-* [ ] AI Integration in Web Applications
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=munawwar-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munawwar-007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=munawwar-007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munawwar-007&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -234,99 +387,55 @@ A responsive developer portfolio showcasing my:
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=munawwar-007&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
+  <img src="https://streak-stats.demolab.com?user=munawwar-007&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Activity
-
-### My GitHub contributions turning into a snake 🐍
+# 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/munawwar-007/munawwar-007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
+  <img src="https://raw.githubusercontent.com/munawwar-007/munawwar-007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-
-> 💡 The snake animation is generated automatically from my GitHub contribution graph.
 
 ---
 
-# 📅 GitHub Contribution Graph
+# 📅 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=munawwar-007&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=munawwar-007&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=munawwar-007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=munawwar-007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
 ---
 
-# 📈 My Developer Journey
+# 📚 Certifications & Continuous Learning
 
-```text
-                MY DEVELOPMENT JOURNEY
+### ☁️ AWS & Cloud
 
-        Programming Fundamentals
-                    │
-                    ▼
-          HTML • CSS • JavaScript
-                    │
-                    ▼
-                React.js
-                    │
-                    ▼
-             Node.js + Express
-                    │
-                    ▼
-          MongoDB + REST APIs
-                    │
-                    ▼
-          Full-Stack Development
-                    │
-                    ▼
-        Linux + Networking Basics
-                    │
-                    ▼
-             AWS Cloud ☁️
-                    │
-                    ▼
-          Docker + CI/CD 🚀
-                    │
-                    ▼
-        Cloud Application Development
-                    │
-                    ▼
-              AI + Cloud 🤖☁️
-```
-
----
-
-# 📚 Certifications & Learning
-
-### ☁️ AWS
-
-* AWS Fundamentals
-* AWS Cloud Concepts
-* AWS Networking Fundamentals
+* AWS Cloud Fundamentals
+* AWS Networking
 * AWS Shared Responsibility Model
 * AWS IAM
 * AWS EC2
 * AWS S3
-* AWS Cloud & Security Fundamentals
+* AWS Security Fundamentals
+* AWS Cloud Concepts
+
+### 🖥️ Infrastructure
+
+* Windows Administration
+* Windows Server Fundamentals
+* Networking Fundamentals
+* VMware Virtualization
+* PowerShell
 
 ### 💻 Development
 
@@ -338,11 +447,19 @@ A responsive developer portfolio showcasing my:
 * Python
 * SQL
 
-> 📌 I continuously update my skills through courses, hands-on projects and technical practice.
+---
+
+# 📌 Development Philosophy
+
+```text
+Learn → Practice → Build → Troubleshoot → Improve → Deploy → Repeat
+```
+
+> 💡 I believe the best way to learn technology is to combine **theory with hands-on projects, troubleshooting and real-world implementation.**
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -364,33 +481,43 @@ A responsive developer portfolio showcasing my:
 
 # 💬 Ask Me About
 
-```text
-JavaScript     React.js
-Node.js        MongoDB
-Express.js     REST APIs
-Python         PHP
-MySQL          Git & GitHub
-AWS            Cloud Computing
-Linux          Networking
-AI             Web Development
-```
+<p align="center">
+
+`IT Support` `Windows Server` `Active Directory` `VMware`
+`Networking` `PowerShell` `AWS` `Cloud Computing`
+`React` `Node.js` `MongoDB` `JavaScript` `Python`
+`Linux` `Git` `GitHub` `Web Development`
+
+</p>
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Developer Mode
 
 ```text
-💻 Code → ☕ Coffee → 🐛 Debug → 🚀 Build → ☁️ Deploy → 🔁 Repeat
+🖥️ Troubleshoot
+      ↓
+🌐 Configure
+      ↓
+⚙️ Automate
+      ↓
+💻 Develop
+      ↓
+☁️ Deploy
+      ↓
+📊 Monitor
+      ↓
+🚀 Improve
 ```
 
 ---
 
 <h3 align="center">
 
-🚀 Building Today • Learning Every Day • Growing for Tomorrow
+🚀 IT Infrastructure • Cloud • Development • Continuous Learning
 
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
