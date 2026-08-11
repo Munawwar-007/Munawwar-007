@@ -208,10 +208,10 @@ A responsive developer portfolio showcasing my:
 * [x] Python Basics
 * [x] Node.js Fundamentals
 * [x] MongoDB Fundamentals
-* [ ] Advanced React
-* [ ] Advanced Node.js
-* [ ] System Design
-* [ ] AWS Architecture
+* [x] Advanced React
+* [x] Advanced Node.js
+* [x] System Design
+* [x] AWS Architecture
 * [ ] Docker & Containers
 * [ ] CI/CD
 * [ ] Advanced Cloud Computing
